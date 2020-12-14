@@ -1,0 +1,40 @@
+/* style.css 
+   To be used for subsequent htmml design
+*/
+
+#head
+{
+   border-bottom: 3px gray double;
+   text-align: center;
+   color: #FFFFFF;
+   background-color: FF0000;
+}
+#left{
+   float: left;
+   width: 20%;
+   min-height: 15em;
+   font-family: monospace;
+}
+#right{
+   border-left: 3px gray double;
+   float: left;
+   width: 75%;
+   min-height: 15em;
+}
+#footer
+{
+   border: 3px red solid;
+   float: right;
+   background-color: red;
+   
+}
+#hright
+{
+  color: FF0000;  
+}
+img
+{
+   float: right;
+   width: 80%;
+   height: 35%
+}
